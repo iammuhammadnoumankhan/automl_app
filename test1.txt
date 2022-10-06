@@ -1,2 +1,3 @@
-Hey! its GIT course from Edurika.
+Hey! This GIT course from Edurika.
 
+It is a DevOps full course
